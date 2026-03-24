@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@import "flowbite/src/themes/default";
+@plugin "flowbite/plugin";
+@source "../node_modules/flowbite";
+
+* {
+  cursor: none !important;
+}
+
+body {
+  background-color: #020617;
+  color: #ffffff;
+}
