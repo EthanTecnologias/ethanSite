@@ -43,7 +43,7 @@ export function AboutSection() {
             className="flex flex-col justify-center"
           >
             <h2 className="text-cyan-400 font-mono text-sm tracking-[0.3em] uppercase mb-4">
-              Nossa Essência
+              Ethan Group
             </h2>
             <h3 className="text-4xl md:text-5xl font-extrabold text-white mb-8 tracking-tight leading-tight">
               Unindo tradição contábil à <span className="text-gray-500">inovação digital.</span>
@@ -51,7 +51,7 @@ export function AboutSection() {
             
             <div className="space-y-6 text-gray-400 text-lg leading-relaxed font-light">
               <p>
-                Com mais de 15 anos no mercado, entendemos que contabilidade não é apenas sobre números, mas sobre a viabilidade de sonhos e o crescimento de parcerias sólidas.
+                Com mais de 5 anos no mercado, entendemos que contabilidade não é apenas sobre números, mas sobre a viabilidade de sonhos e o crescimento de parcerias sólidas.
               </p>
               <p>
                 Nossa missão é simplificar a complexidade tributária brasileira através de tecnologia proprietária e um atendimento consultivo que coloca você no controle total do seu patrimônio.

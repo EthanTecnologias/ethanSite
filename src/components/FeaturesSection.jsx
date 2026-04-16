@@ -16,7 +16,7 @@ export function FeaturesSection() {
        - pt-20 : Padding top alto no mobile para dar espaço após os CTAs.
        - md:pt-0 : Sem padding top no desktop (a margem negativa resolve).
     */
-    <section className="relative z-30 mt-0 md:-mt-32 pt-16 md:pt-0 px-6 pb-24 bg-transparent">
+    <section className="relative z-30 mt-12 m pt-16 md:pt-0 px-6 pb-24 bg-transparent">
       <div className="max-w-7xl mx-auto">
         
         {/* Grid de Cards - Ajustando gap para mobile */}

@@ -4,11 +4,13 @@
 @plugin "flowbite/plugin";
 @source "../node_modules/flowbite";
 
-* {
-  cursor: none !important;
-}
+
 
 body {
   background-color: #020617;
   color: #ffffff;
+}
+
+html {
+  scroll-behavior: smooth;
 }
